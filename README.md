@@ -26,3 +26,7 @@
 # ``` Integer Sorts ```
 
 > Integer sorts are sometimes called counting sorts (though there is a specific integer sort algorithm called counting sort). Integer sorts do not make comparisons, so they are not bounded by Ω(nlogn). Integer sorts determine for each element x how many elements are less than x. If there are 14 elements that are less than x, then x will be placed in the 15th slot. This information is used to place each element into the correct slot immediately—no need to rearrange lists.
+
+# Author :black_nib:
+Ashu Hagos <[ashuhg](https://github.com/ashuhg)>
+Filmawit Mekonen <[fila2021](https://github.com/fila2021)>
