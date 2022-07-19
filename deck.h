@@ -3,7 +3,6 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-
 /**
  * enum kind_e - kinds of cards
  * @SPADE: spade
